@@ -1,8 +1,8 @@
 
 import Foundation
 
-class Networking {
-    func getRequest() {
+public class Networking {
+    public func getRequest() {
         
     }
 }
