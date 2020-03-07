@@ -1,3 +1,8 @@
-struct Networking {
-    var text = "Hello, World!"
+
+import Foundation
+
+class Networking {
+    func getRequest() {
+        
+    }
 }

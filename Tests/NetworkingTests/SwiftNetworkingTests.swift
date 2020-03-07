@@ -1,15 +1,11 @@
 import XCTest
-@testable import Networking
+@testable import SwiftNetworking
 
-final class NetworkingTests: XCTestCase {
+final class SwiftNetworkingTests: XCTestCase {
     func testExample() {
         // This is an example of a functional test case.
         // Use XCTAssert and related functions to verify your tests produce the correct
         // results.
-        XCTAssertEqual(Networking().text, "Hello, World!")
     }
 
-    static var allTests = [
-        ("testExample", testExample),
-    ]
 }
